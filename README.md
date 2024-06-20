@@ -27,10 +27,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/joão-calafange"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jotave369@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/j.calafange"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/joão-calafange"><img src="https://img.shields.io/badge/-Joao%20Vitor%20Calafange-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jotave369@gmail.com"><img src="https://img.shields.io/badge/-jotave369@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/j.calafange"><img src="https://img.shields.io/badge/-@j.calafange-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
